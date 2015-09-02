@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Brogrammer</string>
+
+    <string name="welcome_message">Welcome to Brogrammer!</string>
+    <string name="instructions">Click the button to get your new bro name!</string>
+    <string name="action_settings">Settings</string>
+</resources>
